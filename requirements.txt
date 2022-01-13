@@ -22,7 +22,7 @@ numpy==1.18.1
 packaging==20.3
 pandas==1.0.3
 path==13.1.0
-Pillow==7.1.2
+Pillow==9.0.0
 requests==2.23.0
 scikit-learn==0.22.1
 scipy==1.4.1
